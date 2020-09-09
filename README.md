@@ -5,4 +5,5 @@ Check out my [website](https://rakshithsm.com) and [blog](https://rakshithsm.com
 
 ## The story so far..
 1. Sorting
-    1. Merge Sort
+    1. [Merge Sort](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/tutorial/)
+    2. [Quick Sort](https://www.interviewbit.com/tutorial/quicksort-algorithm/)
