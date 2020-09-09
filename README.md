@@ -7,3 +7,4 @@ Check out my [website](https://rakshithsm.com) and [blog](https://rakshithsm.com
 1. Sorting
     1. [Merge Sort](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/tutorial/)
     2. [Quick Sort](https://www.interviewbit.com/tutorial/quicksort-algorithm/)
+    > :trophy:I highly recommend sketching out the sorting process on paper for multiple examples

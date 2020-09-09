@@ -27,7 +27,8 @@ def quick_sort(a, start, end):
     # Recursion base condition, same as merge sort
     if start < end:
         pi = partition(a, start, end)
-        # I told you to trust me, 
+        # I told you to trust me. This is where you split the array (logically, not physically. Duh!) using start (start of smaller part), pi (pi - 1 is the end of smaller part, pi + 1 is the start of larger part), and end(end is the end of smaller part). 
+        # Then sort them recursively until only one remains (you know, By the rule of the arena, "Two elements enter, only one element leaves.")
         quick_sort(a, start, pi - 1)
         quick_sort(a, pi + 1, end)
     
