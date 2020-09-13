@@ -13,7 +13,7 @@ def partition(a, start, end):
     # 4. Pick median as pivot.
     
     # I have gone for the more traditional last element (which gives a horrible O(n^2) time complexity when array is already sorted)
-    # for the more sophisticated random element as pivot call the rand_partition instead
+    # For the more sophisticated "random element as pivot" call the rand_partition() instead
     pivot = a[end]
     for j in range(start, end):
         if a[j] <= pivot:
