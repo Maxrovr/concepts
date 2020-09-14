@@ -5,8 +5,8 @@ Check out my [website](https://rakshithsm.com) and [blog](https://rakshithsm.com
 
 ## The story so far..
 1. Sorting
-    1. [Merge Sort](https://github.com/Maxrovr/concepts/blob/master/python/sorting/merge_sort.py) [(orig)](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/tutorial/)
-    2. [Quick Sort](https://github.com/Maxrovr/concepts/blob/master/python/sorting/quick_sort.py) [(orig)](https://www.interviewbit.com/tutorial/quicksort-algorithm/)
+    1. [Merge Sort](https://github.com/Maxrovr/concepts/blob/master/python/sorting/merge_sort.py) ([Original](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/tutorial/))
+    2. [Quick Sort](https://github.com/Maxrovr/concepts/blob/master/python/sorting/quick_sort.py) ([Original](https://www.interviewbit.com/tutorial/quicksort-algorithm/))
     > :trophy:I highly recommend sketching out the sorting process on paper for multiple examples
 
 2. Recursion and Dynamic Programming(DP)
