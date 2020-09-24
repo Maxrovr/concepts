@@ -1,3 +1,11 @@
+# In case of binary search trees (BST), Inorder traversal gives nodes in non-decreasing order. 
+# To get nodes of BST in non-increasing order, a variation of Inorder traversal where Inorder traversal is reversed can be used.
+
+# Approach: 
+# 1. Take the root node and put it into the stack
+# 2. Iterate to reach the leftmost node while adding every visited node to the stack
+# 3. Take the leaf node and push it into the result, explore the nodes right child 
+
 class Node:
     def __init__(self, val):
         self.val = val

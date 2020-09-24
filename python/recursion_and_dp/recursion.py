@@ -15,10 +15,5 @@ def fib_dp(n):
         return m[n]
     return helper(n, m)
 
-def fib_iter(n):
-    a = 0
-    b = 1
-    for i in range(2:)
-
 print(fib(6))
 print(fib_dp(6))
